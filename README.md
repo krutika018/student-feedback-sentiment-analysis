@@ -91,6 +91,29 @@ The system supports:
 - Text feedback
 - Audio input
 
+## 📸 Project Screenshots
+
+### 📊 Data Input
+The system accepts student feedback through CSV/Excel files and loads the data for analysis.
+
+![Data Input](screenshots/01-data-input.png)
+
+### 🧠 VADER Sentiment Predictions
+VADER is used as the primary rule-based sentiment analyzer to classify student feedback.
+
+![VADER Predictions](screenshots/02-vader-predictions.png)
+
+### 📈 Evaluation Results
+The project evaluates sentiment predictions against the available labels.
+
+![Evaluation Results](screenshots/03-evaluation-results.png)
+
+### 🎤 Voice Sentiment Analysis
+The system also supports audio feedback by converting speech to text and performing sentiment analysis.
+
+![Voice Sentiment Analysis](screenshots/04-voice-sentiment-analysis.png)
+
+
 ## 📊 Output
 
 The system generates sentiment classifications for student feedback.
